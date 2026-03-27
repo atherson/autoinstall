@@ -1,0 +1,21 @@
+# IDE / Editor
+.idea/
+*.iml
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup / temp files
+*.bak
+*.swp
+*.tmp
+
+# Python / scripts (optional, if any)
+__pycache__/
+*.pyc
